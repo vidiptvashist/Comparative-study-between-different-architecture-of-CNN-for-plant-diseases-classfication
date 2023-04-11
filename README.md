@@ -8,3 +8,5 @@ dataset of potato leaves images, both healthy and diseased, to learn the
 characteristics of each type of disease. The CNN would learn to identify common
 features in the images, such as discoloration, spot patterns, or wilting, that are
 indicative of certain diseases
+
+Dataset Link : https://www.kaggle.com/datasets/emmarex/plantdisease
