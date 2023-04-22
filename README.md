@@ -41,8 +41,8 @@ accurately pinpoint potato diseases, which will ultimately lead to disease manag
 that are more efficient and effective.
 
 ## Methodology
-![Flow Chart](https://user-images.githubusercontent.com/86826802/233789865-19389b55-95ae-4bf5-becc-43ced5945eea.png)
+[Flow Chart](https://user-images.githubusercontent.com/86826802/233789865-19389b55-95ae-4bf5-becc-43ced5945eea.png)
 
 ## Results
-![VGG16 Result](https://user-images.githubusercontent.com/86826802/233789978-e0a99b6f-0009-47d9-b758-7db80d5eea1c.png)
-![AlexNet Result](https://user-images.githubusercontent.com/86826802/233789976-de88c806-300c-484d-bb3c-32e1c05dad5f.png)
+[VGG16 Result](https://user-images.githubusercontent.com/86826802/233789978-e0a99b6f-0009-47d9-b758-7db80d5eea1c.png)
+[AlexNet Result](https://user-images.githubusercontent.com/86826802/233789976-de88c806-300c-484d-bb3c-32e1c05dad5f.png)
