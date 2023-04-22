@@ -10,3 +10,4 @@ features in the images, such as discoloration, spot patterns, or wilting, that a
 indicative of certain diseases
 
 Dataset Link : https://www.kaggle.com/datasets/emmarex/plantdisease
+Report Link : https://github.com/vidiptvashist/Comparative-study-between-different-architecture-of-CNN-for-plant-diseases-classfication/blob/main/report/Project%20Report.pdf
