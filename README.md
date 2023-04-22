@@ -9,16 +9,15 @@ characteristics of each type of disease. The CNN would learn to identify common
 features in the images, such as discoloration, spot patterns, or wilting, that are
 indicative of certain diseases.
 ## Links
+| Content  | Link |
+| ------------- | ------------- |
 | Dataset Link  | [Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)  |
 | Report Link  | [Report](https://github.com/vidiptvashist/Comparative-study-between-different-architecture-of-CNN-for-plant-diseases-classfication/blob/main/report/Project%20Report.pdf)  |
+| Slides Link   | [Slides](https://github.com/vidiptvashist/Comparative-study-between-different-architecture-of-CNN-for-plant-diseases-classfication/tree/main/Content%20Weekly) |
+| Result Link   | [Result](https://github.com/vidiptvashist/Comparative-study-between-different-architecture-of-CNN-for-plant-diseases-classfication/tree/main/Results)  |
+| Code Link  | [Code](https://github.com/vidiptvashist/Comparative-study-between-different-architecture-of-CNN-for-plant-diseases-classfication/tree/main/Code) |
 
 
-
-Dataset Link : [Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)  
-Report Link : [Report](https://github.com/vidiptvashist/Comparative-study-between-different-architecture-of-CNN-for-plant-diseases-classfication/blob/main/report/Project%20Report.pdf)
-Slides Link : [Slides](https://github.com/vidiptvashist/Comparative-study-between-different-architecture-of-CNN-for-plant-diseases-classfication/tree/main/Content%20Weekly)
-Result Link : [Result](https://github.com/vidiptvashist/Comparative-study-between-different-architecture-of-CNN-for-plant-diseases-classfication/tree/main/Results)
-Code Link : [Code](https://github.com/vidiptvashist/Comparative-study-between-different-architecture-of-CNN-for-plant-diseases-classfication/tree/main/Code)
 
 ## Abstract
 At the present, industry professionals are frequently required to identify potato infections directly, which is a process that is both time demanding and prone to errors. It requires a significant
