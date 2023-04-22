@@ -11,3 +11,6 @@ indicative of certain diseases
 
 Dataset Link : [Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)
 Report Link : [Report](https://github.com/vidiptvashist/Comparative-study-between-different-architecture-of-CNN-for-plant-diseases-classfication/blob/main/report/Project%20Report.pdf)
+Slides Link : [Slides](https://github.com/vidiptvashist/Comparative-study-between-different-architecture-of-CNN-for-plant-diseases-classfication/tree/main/Content%20Weekly)
+Result Link : [Result](https://github.com/vidiptvashist/Comparative-study-between-different-architecture-of-CNN-for-plant-diseases-classfication/tree/main/Results)
+Code Link : [Code](https://github.com/vidiptvashist/Comparative-study-between-different-architecture-of-CNN-for-plant-diseases-classfication/tree/main/Code)
