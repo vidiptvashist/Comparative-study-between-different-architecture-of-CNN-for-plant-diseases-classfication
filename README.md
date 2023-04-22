@@ -1,4 +1,4 @@
-# Comparative-study-between-different-architecture-of-CNN-for-plant-diseases-classfication
+# Comparative Study Between Different Architecture of CNN for Plant Diseases Classfication
 Developed deep learning model to identify the disease in potato crop
 after analyzing the images of leaves.
 have performed a comparative study between 2 different architecture of CNN and
