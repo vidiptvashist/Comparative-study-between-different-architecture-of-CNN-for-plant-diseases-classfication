@@ -9,8 +9,6 @@ characteristics of each type of disease. The CNN would learn to identify common
 features in the images, such as discoloration, spot patterns, or wilting, that are
 indicative of certain diseases.
 ## Links
-| First Header  | Second Header |
-| ------------- | ------------- |
 | Dataset Link  | [Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease)  |
 | Report Link  | [Report](https://github.com/vidiptvashist/Comparative-study-between-different-architecture-of-CNN-for-plant-diseases-classfication/blob/main/report/Project%20Report.pdf)  |
 
